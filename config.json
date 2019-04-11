@@ -1,0 +1,14 @@
+{
+	"lasdir" : "/home/notroot/cc/pred/lidardata/hir",
+	"folderprefix" : "SET-",
+	"folderStart" : 1,
+	"folderEnd" : 1,
+	"polesCloudFile" : "las/street light poles.las",
+	"polesFile" : "/home/notroot/cc/pred/beebee8/final/poles.txt",
+	"netFile" : "/home/notroot/cc/pred/beebee8/final/network.txt",
+	"linksFile" : "/home/notroot/cc/pred/beebee8/final/links.txt",
+	"ignorelas" : ["ground.las", "roads.las", "noise points.las", "road dividers.las", ".directory"],
+	"max_dist" : 200,
+	"min_dist" : 50,
+	"ap_range" : 150
+}
